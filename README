@@ -1,0 +1,12 @@
+RST2HTML Slideshow Presenter
+============================
+
+This is a sample application to generate html presentation files from RST.
+More information can be obtained from [docutils sourceforge documentation](http://docutils.sourceforge.net/docs/user/slide-shows.html).
+
+**Instructions**
+
+Modify the rst file.  Any images being used can be stored in the root directory.
+When you are done, you can run generate.sh to generate the HTML
+
+_docutils_ is required for this setup.
